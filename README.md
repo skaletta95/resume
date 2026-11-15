@@ -10,7 +10,7 @@
 
 ## Summary
 
-Second-year Business Informatics student with a long-standing interest in IT and programming. Experienced in JavaScript and web page layout, currently learning Go. Comfortable working with Git and GitHub. Graduated from school with honors (red certificate and gold medal). Motivated, hard-working, and ready to grow in a professional environment.
+Second-year Business Informatics student with a long-standing interest in IT and programming. Experienced in JavaScript and web page layout, currently learning Go. Comfortable working with Git and GitHub. Motivated, hard-working and ready for any type of pressure.
 
 ---
 
@@ -43,29 +43,33 @@ Graduated with a red certificate (honors) and a gold medal
 - Implemented in-page navigation (About, Best Gifts, Contacts) and a countdown timer to the New Year
 - Deployed with GitHub Pages
 
+**Shelter** — Layout of shelter supporting website, built while taking the RSSchool course
+[Make a friend](https://rolling-scopes-school.github.io/skaletta95-JSFEPRESCHOOL2024Q2/index.html)
+
+- Work was done using only HTML and CSS, without JS
+- No pets were harmed during development
+- Deployed with GitHub Pages
+
+**RumbCode** — Landing page for a startup project created as part of a university competition
+[To behold a masterpiece](https://skaletta95.github.io/rumbcode/)
+
+- A great deal of work went into the animations.
+- Materials from the layout were inserted
+- Deployed with GitHub Pages
+
 ---
 
 ## Languages
 
 - **Russian** — native
-- **English** — B1+ (Intermediate)
+- **English** — B1 (Intermediate)
 
 ---
 
 ## Achievements
 
 - Graduated from school with a red certificate and a gold medal
+- Completion of the first stage of the front-end development course from Rolling Scopes School
+- Getting Started with GoLang
 
 ---
-
-## Personal Qualities
-
-- Strong motivation to learn and develop
-- Willingness to put in consistent effort
-- Responsible and dedicated approach to work
-
----
-
-## Interests
-
-Programming, IT, web development
